@@ -8,7 +8,8 @@ NS-Defacer is a auto html injecter, In other words It's a auto defacer to deface
 Install the requirements
 
 ```python
-  cd Deface33
+  git clone https://github.com/SpeacterX0/DEFACE
+  cd DEFACE
   python3 install -r requirments.txt
 ```
 Run with python3
