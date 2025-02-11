@@ -17,9 +17,7 @@ Run with python3
 python3 speacterx.py
 ```
 
-## Preview
 
-![preview](https://user-images.githubusercontent.com/76558503/148205808-1db3752f-d6a6-4d99-8d96-1c28c09018a3.png)
 ## Features
 
 - Auto-Deface
