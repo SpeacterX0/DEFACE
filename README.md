@@ -31,8 +31,21 @@ python3 speacterx.py
 - Use it at your own risk. [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Author
+~~~
+- [@NS-R00T](https://www.github.com/TheNightSec)Setoolkit - https://github.com/trustedsec/social-engineer-toolkit
+SocialFish - https://github.com/UndeadSec/SocialFish
+HiddenEye - https://github.com/DarkSecDevelopers/HiddenEye-Legacy
+Evilginx2 - https://github.com/kgretzky/evilginx2
+-See_You(Get Location using phishing attack) - https://github.com/Viralmaniar/I-See-You
+SayCheese (Grab target's Webcam Shots) - https://github.com/hangetzzu/saycheese
+QR Code Jacking - https://github.com/cryptedwolf/ohmyqr
+ShellPhish - https://github.com/An0nUD4Y/shellphish
+BlackPhish - https://github.com/iinc0gnit0/BlackPhish
 
-- [@NS-R00T](https://www.github.com/TheNightSec)
+
+- ``````
+
+
 
 ## Support
 
